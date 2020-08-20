@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Snake
+  m_Shader: {fileID: -6465566751694194690, guid: 779165be8bc245640a01589b12329bee,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_7E7D124C:
+        m_Texture: {fileID: 2800000, guid: 85ca64db0dbf1b14e9e82a252cf3d42c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_817B220E:
+        m_Texture: {fileID: 2800000, guid: 85ca64db0dbf1b14e9e82a252cf3d42c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_58F5CB19: 0
+    - Vector1_B6BC66DE: -4
+    - Vector1_B781CA44: 32
+    - Vector1_CAB9C154: 0.61
+    - Vector1_EA04936F: 3
+    - Vector1_F33AAFCA: 0.5
+    - _MAIN_LIGHT_SHADOWS_CASCADE: 1
+    - _SHADOWS_SOFT: 1
+    m_Colors:
+    - Color_116725BF: {r: 0.7830189, g: 0.7830189, b: 0.7830189, a: 0}
+    - Color_6512CD7A: {r: 0.745283, g: 0.745283, b: 0.745283, a: 0}
+    - Color_85BA657: {r: 1, g: 1, b: 1, a: 1}
+    - Color_F25F2FC1: {r: 1, g: 1, b: 1, a: 0}
