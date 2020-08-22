@@ -10,6 +10,6 @@
 </p>
 
 
-[![Youtube Video](.github/thumbnail.png)](https://youtu.be/snCy1eyqScQ)
+[![Youtube Video](.github/thumbnail.png)](https://youtu.be/v2irAJtV8sU)
 
-<p align="center"><a href="https://www.youtube.com/channel/UCTR740iIPwfu7Pz_BoCEJ-g" target="_blank">Check the full video on YouTube</a></p>
+<p align="center"><a href="https://youtu.be/v2irAJtV8sU" target="_blank">Check the full video on YouTube</a></p>
